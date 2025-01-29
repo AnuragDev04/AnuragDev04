@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anurag</h1>
+<h1 align="center">Hi , I'm Anurag</h1>
 <h3 align="center">Java Enthusiast</h3>
 
-- 💬 Ask me about **Python,Java,Javascript**
+-  Ask me about **Python,Java,Javascript**
 
-- 📫 How to reach me **Anuragmasrama554@gmail.com**
+-  How to reach me **Anuragmasrama554@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
