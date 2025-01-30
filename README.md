@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Anurag</h1>
-<h3 align="center">Java Enthusiast</h3>
 
--  Ask me about **Python,Java,Javascript**
 
 -  How to reach me **Anuragmasrama554@gmail.com**
 
