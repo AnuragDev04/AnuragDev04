@@ -1,16 +1,196 @@
-<h1 align="center">Hi , I'm Anurag</h1>
+ 👋 Hi, I'm Anurag Masram
+
+ 🚀 Android Developer | Java | Kotlin | Jetpack Compose | Flutter | Kotlin Multiplatform
+
+I'm a passionate **Android Developer** focused on building modern, scalable, and highperformance mobile applications. I enjoy turning ideas into clean, intuitive, and userfriendly mobile experiences.
+
+I work primarily with **Kotlin and Java** and have experience with modern Android technologies including **Jetpack Compose, Android SDK, XML, Coroutines, Kotlin Multiplatform, and Flutter**.
 
 
--  How to reach me **Anuragmasrama554@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/@anuragmasrama554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anuragmasrama554" height="30" width="40" /></a>
+ 👨‍💻 About Me
+
+ 📱 Android Developer passionate about building highquality mobile applications
+ 💻 Strong interest in **Kotlin, Java, Android & Mobile Application Development**
+ 🎨 Building modern UI with **Jetpack Compose & Material Design**
+ 🔄 Exploring **Kotlin Multiplatform (KMP)** for crossplatform development
+ 🌐 Experience working with **REST APIs & backend integration**
+ ⚙️ Interested in **Spring Boot, AI integration & scalable application architecture**
+ 🧩 Enjoy solving problems and improving application performance
+ 📚 Continuously learning new technologies and development practices
+
+
+
+ 🛠️ Tech Stack
+
+ 📱 Mobile Development
+
+![Android](https://img.shields.io/badge/Android3DDC84?style=forthebadge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin7F52FF?style=forthebadge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/JavaED8B00?style=forthebadge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose4285F4?style=forthebadge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter02569B?style=forthebadge&logo=flutter&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform7F52FF?style=forthebadge&logo=kotlin&logoColor=white)
+
+ 🎨 UI & Design
+
+![Material Design](https://img.shields.io/badge/Material%20Design757575?style=forthebadge&logo=materialdesign&logoColor=white)
+![XML](https://img.shields.io/badge/XMLFF6600?style=forthebadge&logo=xml&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUIFA7343?style=forthebadge&logo=swift&logoColor=white)
+
+ 🌐 Backend & APIs
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot6DB33F?style=forthebadge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API005571?style=forthebadge)
+![MySQL](https://img.shields.io/badge/MySQL4479A1?style=forthebadge&logo=mysql&logoColor=white)
+
+ 💻 Programming
+
+![Python](https://img.shields.io/badge/Python3776AB?style=forthebadge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B00599C?style=forthebadge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScriptF7DF1E?style=forthebadge&logo=javascript&logoColor=black)
+
+ 🔧 Tools
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio3DDC84?style=forthebadge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/GitF05032?style=forthebadge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub181717?style=forthebadge&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle02303A?style=forthebadge&logo=gradle&logoColor=white)
+
+
+
+ 📱 Android Development Skills
+
+ **Kotlin & Java**
+ Android SDK
+ Jetpack Compose
+ XML Layouts
+ Material Design 3
+ Android Architecture Components
+ Coroutines
+ REST API Integration
+ JSON Parsing
+ Local Storage
+ SharedPreferences
+ Room Database
+ Navigation
+ MVVM Architecture
+ Dependency Injection
+ Firebase
+ Push Notifications
+ App Performance Optimization
+
+
+
+ 🌍 Kotlin Multiplatform
+
+Currently exploring **Kotlin Multiplatform** to build applications that share business logic across platforms while maintaining native user experiences.
+
+```text
+             Kotlin Multiplatform
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+       Android                iOS
+          │                   │
+   Jetpack Compose         SwiftUI
+```
+
+
+
+ 🚀 Featured Projects
+
+ 🏥 Healthcare & Home Nursing App
+
+A modern healthcare mobile application designed for booking home nursing and healthcare services.
+
+**Technologies:**
+`Kotlin` `Jetpack Compose` `Material 3` `REST API` `MVVM`
+
+
+
+ 🏢 ERP Mobile Application
+
+Mobile ERP application with modules for sales, inventory, accounting, HR, site management, reports, and notifications.
+
+**Technologies:**
+`Android` `Kotlin` `Jetpack Compose` `REST API` `MySQL`
+
+
+
+ 🌐 Social Media Platform
+
+A webbased social platform designed with a focus on accessibility and userfriendly interaction.
+
+**Technologies:**
+`PHP` `HTML` `CSS` `JavaScript` `MySQL`
+
+
+
+ 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://githubreadmestats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://githubreadmestreakstats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragdav04&show_icons=true&locale=en&layout=compact" alt="anuragdav04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragdav04&show_icons=true&locale=en" alt="anuragdav04" /></p>
+
+ 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://githubreadmestats.vercel.app/api/toplangs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+
+ 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://githubprofiletrophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&noframe=true&marginw=10" />
+</p>
+
+
+
+ 🎯 Currently Learning
+
+```text
+📱 Advanced Android Development
+🟣 Kotlin Multiplatform
+🎨 Jetpack Compose
+🍎 SwiftUI
+☁️ Cloud & Backend Development
+🤖 AIpowered Mobile Applications
+🏗️ Clean Architecture
+⚡ Application Performance Optimization
+```
+
+
+
+ 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on projects, and discussing Android and mobile application development.
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub181717?style=forthebadge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn0A66C2?style=forthebadge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+ 💡 Developer Quote
+
+> **"Build. Learn. Improve. Repeat."**
+
+
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+ Thanks for visiting my profile! 🚀
