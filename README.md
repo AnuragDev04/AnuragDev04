@@ -1,196 +1,285 @@
- 👋 Hi, I'm Anurag Masram
+<div align="center">
 
- 🚀 Android Developer | Java | Kotlin | Jetpack Compose | Flutter | Kotlin Multiplatform
+# 🚀 ANURAG MASRAM
 
-I'm a passionate **Android Developer** focused on building modern, scalable, and highperformance mobile applications. I enjoy turning ideas into clean, intuitive, and userfriendly mobile experiences.
+### 📱 Android Developer • Kotlin • Java • Jetpack Compose • KMP
 
-I work primarily with **Kotlin and Java** and have experience with modern Android technologies including **Jetpack Compose, Android SDK, XML, Coroutines, Kotlin Multiplatform, and Flutter**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+%7C+Java+Developer;Jetpack+Compose+Enthusiast;Kotlin+Multiplatform+Developer;Building+Modern+Mobile+Experiences" />
 
+<br>
 
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,gradle,git,github,figma,firebase,spring,mysql&theme=dark" />
 
- 👨‍💻 About Me
+</div>
 
- 📱 Android Developer passionate about building highquality mobile applications
- 💻 Strong interest in **Kotlin, Java, Android & Mobile Application Development**
- 🎨 Building modern UI with **Jetpack Compose & Material Design**
- 🔄 Exploring **Kotlin Multiplatform (KMP)** for crossplatform development
- 🌐 Experience working with **REST APIs & backend integration**
- ⚙️ Interested in **Spring Boot, AI integration & scalable application architecture**
- 🧩 Enjoy solving problems and improving application performance
- 📚 Continuously learning new technologies and development practices
+---
 
+<div align="center">
 
+## 🧊 `ANDROID DEVELOPER`
 
- 🛠️ Tech Stack
+**Building beautiful • scalable • high-performance mobile applications**
 
- 📱 Mobile Development
+</div>
 
-![Android](https://img.shields.io/badge/Android3DDC84?style=forthebadge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin7F52FF?style=forthebadge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/JavaED8B00?style=forthebadge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose4285F4?style=forthebadge&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter02569B?style=forthebadge&logo=flutter&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform7F52FF?style=forthebadge&logo=kotlin&logoColor=white)
+---
 
- 🎨 UI & Design
-
-![Material Design](https://img.shields.io/badge/Material%20Design757575?style=forthebadge&logo=materialdesign&logoColor=white)
-![XML](https://img.shields.io/badge/XMLFF6600?style=forthebadge&logo=xml&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUIFA7343?style=forthebadge&logo=swift&logoColor=white)
-
- 🌐 Backend & APIs
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot6DB33F?style=forthebadge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API005571?style=forthebadge)
-![MySQL](https://img.shields.io/badge/MySQL4479A1?style=forthebadge&logo=mysql&logoColor=white)
-
- 💻 Programming
-
-![Python](https://img.shields.io/badge/Python3776AB?style=forthebadge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B00599C?style=forthebadge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScriptF7DF1E?style=forthebadge&logo=javascript&logoColor=black)
-
- 🔧 Tools
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio3DDC84?style=forthebadge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/GitF05032?style=forthebadge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub181717?style=forthebadge&logo=github&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle02303A?style=forthebadge&logo=gradle&logoColor=white)
-
-
-
- 📱 Android Development Skills
-
- **Kotlin & Java**
- Android SDK
- Jetpack Compose
- XML Layouts
- Material Design 3
- Android Architecture Components
- Coroutines
- REST API Integration
- JSON Parsing
- Local Storage
- SharedPreferences
- Room Database
- Navigation
- MVVM Architecture
- Dependency Injection
- Firebase
- Push Notifications
- App Performance Optimization
-
-
-
- 🌍 Kotlin Multiplatform
-
-Currently exploring **Kotlin Multiplatform** to build applications that share business logic across platforms while maintaining native user experiences.
+## 👨‍💻 About Me
 
 ```text
-             Kotlin Multiplatform
-                    │
-          ┌─────────┴─────────┐
-          │                   │
-       Android                iOS
-          │                   │
-   Jetpack Compose         SwiftUI
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   📱 ANDROID DEVELOPER                                       │
+│                                                              │
+│   ▸ Kotlin & Java                                            │
+│   ▸ Jetpack Compose & Material 3                            │
+│   ▸ Android SDK & XML                                        │
+│   ▸ Kotlin Multiplatform                                     │
+│   ▸ Flutter                                                  │
+│   ▸ REST APIs & Backend Integration                          │
+│   ▸ MVVM & Clean Architecture                                │
+│   ▸ Firebase & Local Storage                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
+I'm an **Android Developer** passionate about creating modern, scalable and user-focused mobile applications.
 
+I enjoy transforming ideas into polished mobile experiences using **Kotlin, Java, Jetpack Compose and modern Android architecture**.
 
- 🚀 Featured Projects
+Currently exploring **Kotlin Multiplatform** to build shared business logic while keeping native experiences for Android and iOS.
 
- 🏥 Healthcare & Home Nursing App
+---
 
-A modern healthcare mobile application designed for booking home nursing and healthcare services.
+# ⚡ My Android Arsenal
 
-**Technologies:**
-`Kotlin` `Jetpack Compose` `Material 3` `REST API` `MVVM`
+<div align="center">
 
+| 📱 Mobile | 🎨 UI | 🏗️ Architecture | ☁️ Backend |
+|:---:|:---:|:---:|:---:|
+| Kotlin | Jetpack Compose | MVVM | REST API |
+| Java | Material 3 | Clean Architecture | Spring Boot |
+| Android SDK | XML | Repository Pattern | MySQL |
+| Flutter | Custom UI | Coroutines | Firebase |
+| KMP | Responsive UI | Dependency Injection | JSON |
 
+</div>
 
- 🏢 ERP Mobile Application
+---
 
-Mobile ERP application with modules for sales, inventory, accounting, HR, site management, reports, and notifications.
+# 🧠 Technology Stack
 
-**Technologies:**
-`Android` `Kotlin` `Jetpack Compose` `REST API` `MySQL`
+### 📱 Android
 
-
-
- 🌐 Social Media Platform
-
-A webbased social platform designed with a focus on accessibility and userfriendly interaction.
-
-**Technologies:**
-`PHP` `HTML` `CSS` `JavaScript` `MySQL`
-
-
-
- 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://githubreadmestats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p>
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,gradle&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://githubreadmestreakstats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+**Kotlin • Java • Android SDK • Jetpack Compose • XML • Coroutines • Navigation • Room**
+
+### 🌍 Cross Platform
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift&theme=dark" />
 </p>
 
+**Kotlin Multiplatform • Flutter • SwiftUI**
 
+### ☁️ Backend & Database
 
- 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://githubreadmestats.vercel.app/api/toplangs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,firebase,nodejs&theme=dark" />
 </p>
 
+**Spring Boot • REST APIs • MySQL • Firebase • JSON**
 
+### 🛠️ Development Tools
 
- 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://githubprofiletrophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&noframe=true&marginw=10" />
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,figma,vscode&theme=dark" />
 </p>
 
+---
 
+# 🚀 Featured Projects
 
- 🎯 Currently Learning
+<div align="center">
+
+### 🏥 Healthcare & Home Nursing App
+
+> Modern healthcare platform for discovering services, booking appointments and managing healthcare interactions.
+
+**Kotlin • Jetpack Compose • Material 3 • MVVM • REST API**
+
+---
+
+### 🏢 ERP Mobile Application
+
+> Enterprise mobile application covering business operations, sales, inventory, HR, accounting and reporting.
+
+**Android • Kotlin • Jetpack Compose • REST API**
+
+---
+
+### 🌎 Kotlin Multiplatform Applications
+
+> Cross-platform applications sharing business logic between Android and iOS while maintaining native UI experiences.
+
+**KMP • Kotlin • Jetpack Compose • SwiftUI**
+
+</div>
+
+---
+
+# 🧩 Android Architecture
 
 ```text
-📱 Advanced Android Development
-🟣 Kotlin Multiplatform
-🎨 Jetpack Compose
-🍎 SwiftUI
-☁️ Cloud & Backend Development
-🤖 AIpowered Mobile Applications
-🏗️ Clean Architecture
-⚡ Application Performance Optimization
+                    ┌───────────────────┐
+                    │     UI LAYER      │
+                    │                   │
+                    │ Jetpack Compose   │
+                    │     / XML         │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   VIEWMODEL       │
+                    │                   │
+                    │ State Management  │
+                    │    Coroutines     │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │   REPOSITORY      │
+                    │                   │
+                    │ Business Logic    │
+                    └─────────┬─────────┘
+                              │
+                  ┌───────────┴───────────┐
+                  ▼                       ▼
+          ┌──────────────┐        ┌──────────────┐
+          │  REST API    │        │  Local DB    │
+          │              │        │              │
+          │ Spring Boot  │        │ Room/MySQL   │
+          └──────────────┘        └──────────────┘
 ```
 
+---
 
+# 🌐 Kotlin Multiplatform
 
- 🤝 Let's Connect
+<div align="center">
 
-I'm always interested in connecting with developers, collaborating on projects, and discussing Android and mobile application development.
+```text
+                    KOTLIN MULTIPLATFORM
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+        SHARED LOGIC               NATIVE UI
+              │                         │
+              ▼                    ┌────┴────┐
+       ┌──────────────┐             │         │
+       │ Networking   │          Android      iOS
+       │ Database     │             │          │
+       │ Repository   │          Compose     SwiftUI
+       │ Business     │
+       └──────────────┘
+```
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub181717?style=forthebadge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn0A66C2?style=forthebadge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
+**Goal:** Share business logic while preserving the native look and feel of each platform.
 
+---
 
- 💡 Developer Quote
+# 📊 GitHub Analytics
 
-> **"Build. Learn. Improve. Repeat."**
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
 
-⭐ **If you find my projects useful, consider giving them a star!**
+</div>
 
- Thanks for visiting my profile! 🚀
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🟣 Advanced Kotlin                                         ║
+║  📱 Modern Android Architecture                             ║
+║  🎨 Jetpack Compose                                         ║
+║  🌍 Kotlin Multiplatform                                    ║
+║  🍎 SwiftUI                                                 ║
+║  🤖 AI-powered Mobile Applications                          ║
+║  ☁️ Cloud & Backend Development                             ║
+║  ⚡ App Performance & Optimization                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 💎 Developer Mindset
+
+<div align="center">
+
+### `BUILD → LEARN → IMPROVE → REPEAT`
+
+<br>
+
+> **"Great apps are not just coded — they are engineered, designed and continuously improved."**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+### ⭐ If you like my projects, consider giving them a star!
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 `Thanks for visiting my GitHub profile!`
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F52FF" />
+
+</div>
